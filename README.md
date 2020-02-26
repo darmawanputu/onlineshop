@@ -1,2 +1,2 @@
 # shoponline
-# Project online shop using NodeJS and MongoDB
+Project online shop using NodeJS and MongoDB
